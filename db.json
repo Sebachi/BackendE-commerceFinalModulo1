@@ -10,7 +10,7 @@
     },
     {
       "itemId": 2,
-      "itemImage": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81r_15DEn63YJq5VTDUNuyMGkqPM6xUncSXrOzKbTepePAadL0i0rhudpDZbzXfcKI0V7MgC9BHyb4d1lY1YyGtFYvGY9w=s1600g",
+      "itemImage": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81r_15DEn63YJq5VTDUNuyMGkqPM6xUncSXrOzKbTepePAadL0i0rhudpDZbzXfcKI0V7MgC9BHyb4d1lY1YyGtFYvGY9w=s1600",
       "itemName": "Cebolla roja",
       "itemWeight": "1 Kg",
       "itemType": "Vegetables",
@@ -629,5 +629,8 @@
         "itemPrice": 38100,
         "itemAmount": 10
       }
-    ]
-  }
+    ],
+ "BuyedItems": [
+
+]
+}
