@@ -631,5 +631,6 @@
       "itemAmount": 10
     }
   ],
-  "BuyedItems": []
+  "BuyedItems": [
+  ]
 }
